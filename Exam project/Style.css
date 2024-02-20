@@ -424,5 +424,9 @@ footer>div>aside{
     letter-spacing: -0.5px;
 }
 
+footer>div>a{
+    display: none;
+}
+
 
 

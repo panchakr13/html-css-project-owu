@@ -3,7 +3,6 @@
         display: none;
     }
 
-
     #first-page>header{
         align-items: flex-start;
         justify-content: flex-start;
@@ -320,11 +319,4 @@
         font-weight: 400;
         line-height: 28px; /* 155.556% */
     }
-
-
-
-
-
-
-
 }

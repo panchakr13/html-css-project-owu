@@ -28,7 +28,7 @@ body{
 .for-svg>img{
     width: 40px;
     height: 40px;
-    background: url(Enver-logo.svg), lightgray 50% / cover no-repeat;
+    background: url(images/Enver-logo.svg), lightgray 50% / cover no-repeat;
     margin-right: 8px;
 }
 
